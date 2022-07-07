@@ -13,8 +13,16 @@
 <ul>
 	<li>Lesson schedule</li>
 	<li>Subscribe system</li>
-	<li>Only subscribers can watch the event</li>
 	<li>Custom video player</li>
+</ul>
+
+<br>
+
+<h3>To-Do</h3>
+<hr>
+
+<ul>
+	<li>Only subscribers can watch the event</li>
 </ul>
 
 <br>
@@ -37,7 +45,7 @@
 <h2>Layout</h2>
 <hr>
 
-<p>Project layout by Jonas Milan, can be visualized <a href="">here</a></p>
+<p>Project layout by Jonas Milan</p>
 
 <br>
 
@@ -47,7 +55,7 @@
 <p>Cloning the project:</p>
 
 ```sh
-$ git clone github.com/ event-platform && cd event-platform
+$ git clone https://github.com/afx-nicolas/event-platform.git event-platform && cd event-platform
 ```
 
 <p>Installing dependencies:</p>
